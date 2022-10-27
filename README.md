@@ -5,6 +5,7 @@ This is a modified (with permission) derivative of Reisner Scorekeeping that I c
 
 #### Changelog
 
+* v9 - dimmer borders, no split window for each AB
 * v8 - icons for bases and home plate 
 * v7 - box for the basepaths
 
