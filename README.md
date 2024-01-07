@@ -5,12 +5,20 @@ Files with pointers to the Reisner Scorekeeping are derived with permission from
 
 Current year card(s) are here.  Previous years are under the subdirectory 'old'.
 
+I've included a zip file consisting of the Excel spreadsheet used to create this template as well as a sha256sums file for the .zip and .pdf files.
+
+#### If you derive a template 'from' this one...
+* please keep the attribution to Reisner Scorekeeping on each page
+* remove the QR code pointing to 'this' repo from your derived template
+* a little thanks on your README file or the like is always appreciated
+
+
 #### Changelog
 
 2024:
-* v0.04 - landscape mode to support traditional scoring,
-          added QR code to point to this repo,
-          still need to fill in batter boxes with bases/icons/numbers....
+* v0.05 - landscape mode to support traditional scoring,
+          added QR code to point to this repo
+          no pitch counts or innings totals due to space limitations
 
 2023:
 * v1 - wish I could remember the changes :-)
