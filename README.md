@@ -8,10 +8,9 @@ Current year card(s) are here.  Previous years are under the subdirectory 'old'.
 #### Changelog
 
 2024:
-* v0.03 - landscape mode to support traditional scoring,
-          no tracking of pitch counts any more,
+* v0.04 - landscape mode to support traditional scoring,
           added QR code to point to this repo,
-          'not' derived from Reisner template
+          still need to fill in batter boxes with bases/icons/numbers....
 
 2023:
 * v1 - wish I could remember the changes :-)
