@@ -16,6 +16,7 @@ I've included a zip file consisting of the Excel spreadsheet used to create this
 #### Changelog
 
 2024:
+* v0.06 - print in light gray font
 * v0.05 - landscape mode to support traditional scoring,
           added QR code to point to this repo
           no pitch counts or innings totals due to space limitations
