@@ -13,6 +13,7 @@ Current year card(s) are here for both portrait and landscape variants.  Previou
 #### Changelog
 
 2024:
+* portrait  v1    - home and visitor pages, add QR code
 * landscape v0.06 - print in light gray font
 * landscape v0.05 - landscape mode to support traditional scoring,
                     added QR code to point to this repo
