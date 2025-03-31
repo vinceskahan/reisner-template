@@ -12,6 +12,9 @@ Current year card(s) are here for both portrait and landscape variants.  Previou
 
 #### Changelog
 
+2025:
+* portrait  v1 - minor cleanup
+
 2024:
 * portrait  v1    - home and visitor pages, add QR code
 * landscape v0.06 - print in light gray font
